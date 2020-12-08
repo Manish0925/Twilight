@@ -1,0 +1,18 @@
+h1 {
+color:red;
+}
+
+Nav-brand-logo {
+    display: block;
+    background-position: -176px 0px;
+    background-image: url('../../static/sprite.png');
+    background-size: 405px 379px;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 176px;
+    text-indent: -1000%
+}
+
+body{
+    background-color: #f0e2f8
+}
